@@ -1,0 +1,2 @@
+# bigdataMonitor
+通过cloudera manager/ResourceManager/Flink API来监控相应应用的状态并输出json给splunk
